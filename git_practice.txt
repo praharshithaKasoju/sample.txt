@@ -1,0 +1,25 @@
+Title: Git and GitHub Practice File
+
+This file is created to practice basic Git and GitHub commands.
+
+In this practice, I am learning:
+
+How to initialize a Git repository
+
+How to check file status using git status
+
+How to add files using git add
+
+How to commit changes using git commit
+
+How to connect a local repository to GitHub
+
+How to push code to a remote repository
+
+Git is a distributed version control system that helps track changes in source code.
+GitHub is a cloud platform used to store Git repositories and collaborate with others.
+
+This file is uploaded as part of my learning journey.
+
+Author: Praharshitha Kasoju
+Date: 2026
